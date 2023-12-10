@@ -53,6 +53,62 @@ Lighthouse에서는 이전의 노하우와 성공경험이 담긴 템플릿을 �
 
 # ⛯ 이렇게 구현했어요
 
+## 🌟 서비스 화면
+
+### 스터디 모집 공고 생성
+1. 템플릿 둘러보기 페이지 이동
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/88e61acc-fe42-447a-8139-3747c851b5c7)
+2. 템플릿 찾기
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/6f553ac7-b1a4-4184-958f-bfe1ddd4ca66)
+3. 템플릿 상세보기
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/ebeaabc3-3280-4d1d-9cbc-e561a38ab865)
+4. 템플릿 수정
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/dae23d91-3977-4b9d-8b13-306181c3a2be)
+5. 모집 공고 업로드
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/52dfdf77-a383-4402-978e-f3e86fbd452c)
+
+---
+
+### 스터디 모집 과정
+
+1.	마이페이지의 신청 명단 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/65a99301-ade4-4113-a483-8f6a16707be6)
+2.	신청한 사용자 프로필 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/38c07fef-351d-4ba3-900e-cad0d03344f1)
+3.	신청 수락 및 스터디 시작
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/e766c530-8fb1-4d0c-997f-ef8d4ae9bc6d)
+
+---
+
+### 스터디 진행 및 마무리
+
+1. 스터디 종료
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/c4ed2695-9aa6-42d6-b778-7a21f14657ab)
+2. 스터디 공유
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/cacfb4f3-04c1-42da-b9ef-122d066bd616)
+3. 템플릿 리스트에 추가됨
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/73cc670d-e5de-4993-b1f5-4e3f9b8e5819)
+
+---
+
+### 스터디 신청
+
+1. 스터디 모집 리스트 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/027fda90-ea02-4276-80f1-ed42a9d89071)
+2. 스터디 상세 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/089ab1fe-f7d7-4603-82d8-9d29395e4d08)
+3. 스터디장에게 메시지 입력 후 신청
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/4239f47a-80f5-4802-bb77-47a600cc3acd)
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/32ed9602-b6d6-4225-815e-ef5c043ce858)
+
+---
+
+### 스터디 진행
+1. 스터디 진행 페이지 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/b4868d1d-9e44-41df-b7ae-79697cddca18)
+2. 채팅 조회
+![image](https://github.com/TaeGN/Lighthouse/assets/110441723/cf8d4125-8d3d-4ea9-898e-22bcd42c4f8f)
+
 ## 🌟 시스템 아키텍쳐
 ![image](https://github.com/TaeGN/Lighthouse/assets/110441723/7b51c3ce-f56d-4bb3-aaec-ad83be132caa)
 
